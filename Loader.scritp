@@ -2,7 +2,7 @@
 -- By: TuLoader
 
 -- URL del script en Pastefy
-local SCRIPT_URL = "https://raw.githubusercontent.com/jahblessbless1995/Aimbot.pro/refs/heads/main/Aimbot.pro"
+local SCRIPT_URL = "https://raw.githubusercontent.com/jahblessbless1995/Builder.bycode/refs/heads/main/Builder-color"
 
 -- Función para cargar y ejecutar el script remoto
 local function loadRemoteScript(url)
